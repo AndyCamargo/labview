@@ -11,7 +11,7 @@ Los temas principales incluyen:
 ---
 
 ## 📂 Contenido del Repositorio
-
+```
 labview/
 ├── 3 Tanques.vi
 ├── BINARIOS.vi
@@ -35,7 +35,7 @@ labview/
 ├── seno.vi
 └── whilep loop.vi
 
-
+```
 ---
 
 ## 🛠️ Requisitos
